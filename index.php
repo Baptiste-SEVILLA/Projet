@@ -1,3 +1,2 @@
 <?php
-echo 'Bonjour';
-
+echo 'Merci Michel';
